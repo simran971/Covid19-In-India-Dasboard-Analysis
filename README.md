@@ -2,3 +2,4 @@
 Tableau Dashboard on Covid-19 In India Analysis.
 ![Uploading image.png…]()
 
+![Uploading image.png…]()
